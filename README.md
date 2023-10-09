@@ -3,7 +3,7 @@ dit is een texst base in java script
 
 Hoe overleef ik een zombie apokolips
 
-1. Het was vanacht weer eens laat de 4 vrienden waren aan het gamen tot diep in de nacht.
+0. Het was vanacht weer eens laat de 4 vrienden waren aan het gamen tot diep in de nacht.
 De tijd vloog voorbij na heel wat potjes shipment in call of duty modenwarver was het al weer 4 uur snacht's.
 Ze besloten maar te gaan slapen en de volgende dag veder te gaan.
 Opeens ging het lucht alarm af je shrikt wakker en beseft je nog niet wat er allemaal gebeurd aangezien je net een uur lag te slapen.
