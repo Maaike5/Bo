@@ -34,4 +34,52 @@ Wij kregen er een nare sweer van en zijn zo snel mogelijk weg gegaan. Onder weg 
 5. Jullie volgen het plan en gaan naar dat dorp veder op voor jullie gevoel zit er pas een week op maar dor dat jullie geen tijd besef meer heben is er al een 3 weken voor bij. Het lijkt er op dat de zombies al voorbij het dorp zijn gegaan het is er uit gestorven jullie beginnen alles leeg te halen jullie vinden wat extra jerrycans heel wat eten en drinken zo we kunnen hier zeker wel een jaar mee door jullie vinden een aarde achtige kleur verf een een groten metalen plaat jullie nemen dat mee ook hebben jullie een houte plaat gevonden perfect voor het luik. ook nemen jullie nog heel wat spullen mee uit huizen die helemaal leeg staan powerbanks oplaad snoeren. Jullie rijden 125Km door en vinden het bos jullie stoppen in he midden van het bos en beginnen met het uit lijnen  van het plan op de grond. Jullie beginnen  met graven en binnen no time is hele kuil uit ge graven het heeft jullie zoon 10 uur gekost maar dan heb je wat jullie splitsen op jij en Lars zetten de tenten op Koen en Bradley beginnen met verfen. De tenten staan en de verf is droog. Jullie pakken de laatste spullen uit de auto. Lars en jij gaan de auto veerstoppen Koen en Bradley verfen nog een laag en gooien aarden en blaadjes op de natte verf zodat dat blijft zitten de auto is verstopt en jullie leggen samen het dak er op en leggen nog meer aarden en blaadjes er op ook maken jullie het luik vast en gaan allemaal naar binnen. jullie zijn in middels al 6 maanden veder en alles gaat goed jullie hebben genoeg spellen bij jullie dus jullie vervelen je niet snel. Opeens hoor je een hele hoop geschreeuw en kabaal. Je twijfelt om naar buiten te gaan of binnen te blijven wat doe je?
 
 
+
+
+6.   gelukkig ben je binnen gebleven jullie eten en drinken begint op te raken jullie hebben 1 telefoon die het nog doed jullie willen het nieuws checken of jullie weer veilig naar huis kunnen if jullie nog langer moeten blijven jullie bepalen dat jullie toch gaan kijken je opent het luik en er komt heel vel licht naar binnen maar het ziet er rustig uit je opent de telefoon en krijgt heel even berijk maar niet genoeg jullie beseffen jullie dat er in de auto nog een sateliet lag jullie pakken die en zoeken verbinding na een uur zoeken naar een signaal vinden jullie eindelijk een sigaal en opent je telefoon je begint te lezen na een tijdje vind je uit dat sinds vorige week alles voor bij is en dat de ravage opgeruimd word. jullie biggenen te juigen en pakken alles in jij haalt de auto alvast jullie hebben de auto in gepakt en beginnen aan een toch van 10 dagen rijden. Een maal thuis aan gekomen pakt iedereen de belangrijkste spullen uit hun huis jullie rijden naar jouw huis en beginnen daar met het schoon maken van alles. Na alles beslissen jullie samnen te gaan wonen aan gezien alles wat jullie hadden aan familie niet terug te vinden zijn jullie wonen nog lang en gelukkig in het huis en jullie hebben deze vreselijke apokolips oveleefd
+
+
+
+/// Hier onder komt verhaal lijn 2.///
+
+
+
+0. Het was vanacht weer eens laat de 4 vrienden waren aan het gamen tot diep in de nacht.
+De tijd vloog voorbij na heel wat potjes shipment in call of duty modenwarver was het al weer 4 uur snacht's.
+Ze besloten maar te gaan slapen en de volgende dag veder te gaan.
+Opeens ging het lucht alarm af je shrikt wakker en beseft je nog niet wat er allemaal gebeurd aangezien je net een uur lag te slapen.
+
+1. Het boeit je allemaal niet zo veel wat er gaande is dus doet het licht weer uit en gaat veder slapen. Je hoort buiten wat geschreeuw en paniek maar omdat je zo moe bent heb je daar maar 5 minuten naar geluisterd en ben je inslaap gevallen. Je hebt heel wat telefoontjes gemist en het nieuws staat op zen kop.
+
+
+2. Het boeit je allemaal niet zoveel je hebt beneden nog wat planken liggen dus je pakt die en timmert alles dicht en je wilt niks te maken hebben met de buiten wereld.Het enige probleem is dat je niet zo veel eten meer in huis hebt en rustig aan moet doen. Je start je computer op om weer call of dutty met ded boys te gaan doen alleen krijg je geen reactie op je berichtjes en zie je dat ze je gebelt hebben.
+
+
+3. Je wou ze gaan zoeke maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft jewel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.
+
+
+
+4. Je zit nu al 3 maanden binnen en het is erg rustig buiten en je hebt de afgelopen weken geen rare geluiden gehoord. Het probleem is dat je zo juist je 1 naar laatste maaltijd op hebt dus je zou tot morgen kunnen eten. Je brengt de avond door net zoals elke andere avond maar toch blijf je erg bezorgt over je vrienden maar het al vast goed met hun gaan.
+
+
+5. je moet toch echt naar buiten om eten te gaan halen maar ja wat neem je precies mee. Je gaat de berging in en vind een honkbalknuppel, een veroote bezem, een toetsen bord en een hand pistool. je hebt besloten om zetjes bij elkaar te leggen dus de bezem en het toetsen bord gaan samen en de hankbalknuppel en het hand pistool. Welke nemen we mee?
+
+ 6. perfect we hebben ergens nog een holster vandaan kunnen halen het pistool zit vast in zijn holster en houd de honkball stevig vast. Je maakt de deur open en schrikt van de ravage buiten je word aangevallen door wel 10 zombies je probeert ze nog weg te slaan maar het heeft allemaal geen zin meer jeword mee gesleurd en je hebt apokolips niet overleefd.
+
+
+
+/// Hier komt veerhaal lijn 3 ///
+
+
+0. Het was vanacht weer eens laat de 4 vrienden waren aan het gamen tot diep in de nacht.
+De tijd vloog voorbij na heel wat potjes shipment in call of duty modenwarver was het al weer 4 uur snacht's.
+Ze besloten maar te gaan slapen en de volgende dag veder te gaan.
+Opeens ging het lucht alarm af je shrikt wakker en beseft je nog niet wat er allemaal gebeurd aangezien je net een uur lag te slapen.
+
+
+1. Nee ik heb toch te veel water mee je pakt 12 flesjes uit de tree en die leg je weg waardoor je een extra
+
+
+
+
 6. gelukkig ben je binnen gebleven jullie eten en drinken begint op te raken jullie hebben 1 telefoon die het nog doed jullie willen het nieuws checken of jullie weer veilig naar huis kunnen if jullie nog langer moeten blijven jullie bepalen dat jullie toch gaan kijken je opent het luik en er komt heel vel licht naar binnen maar het ziet er rustig uit je opent de telefoon en krijgt heel even berijk maar niet genoeg jullie beseffen jullie dat er in de auto nog een sateliet lag jullie pakken die en zoeken verbinding na een uur zoeken naar een signaal vinden jullie eindelijk een sigaal en opent je telefoon je begint te lezen na een tijdje vind je uit dat sinds vorige week alles voor bij is en dat de ravage opgeruimd word. jullie biggenen te juigen en pakken alles in jij haalt de auto alvast jullie hebben de auto in gepakt en beginnen aan een toch van 10 dagen rijden. Een maal thuis aan gekomen pakt iedereen de belangrijkste spullen uit hun huis jullie rijden naar jouw huis en beginnen daar met het schoon maken van alles. Na alles beslissen jullie samnen te gaan wonen aan gezien alles wat jullie hadden aan familie niet terug te vinden zijn jullie wonen nog lang en gelukkig in het huis en jullie hebben deze vreselijke apokolips oveleefd.
