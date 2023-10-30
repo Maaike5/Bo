@@ -14,7 +14,7 @@ function begin(){
     console.log("De tijd vloog voorbij na heel wat potjes shipment in call of duty modenwarver was het al weer 4 uur snacht's");
     console.log("Jullie besloten maar te gaan slapen en de volgende dag veder te gaan.");
     console.log("Opeens ging het lucht alarm af je shrikt wakker en beseft je nog niet wat er allemaal gebeurd aangezien je net een uur lag te slapen.");
-    console.log("A. je liggen. B. Je gaat kijken naar het nieuws en een plan verzinnen.");
+    console.log("A. je blijft liggen. B. Je gaat kijken naar het nieuws en een plan verzinnen.");
     answer = question()
     if (answer == 'a'){
         text7()
@@ -27,30 +27,40 @@ function begin(){
 function text7(){
     console.log("Het boeit je allemaal niet zo veel wat er gaande is dus doet het licht weer uit en gaat veder slapen. Je hoort buiten wat geschreeuw en paniek maar omdat je zo moe bent heb je daar maar 5 minuten naar geluisterd en ben je inslaap gevallen. Je hebt heel wat telefoontjes gemist en het nieuws staat op zen kop");
     console.log("Je word wakker wat ga je doen?");
-    console.log("A. je gaat gewoon veder alsof er niets aan de hand is. B.?");
+    console.log("A. je gaat gewoon veder alsof er niets aan de hand is. B. Je gaat toch maar buien kijken wat er aan de hand is.");
     answer = question()
     if (answer == 'a'){
         text8()
     }
     else{
-        text23()    //// klopt nog niet ///
+        text13()    
     }
 }
-
+function text13(){
+     console.log("Je kleed je aan en gaat nog wat eten voor je naar buiten gaat je hebt nog niet naar buiten gekeken of iets.");
+     console.log("Het is erg stil je doet de deur open en ziet een grote ravage");
+     console.log("A. Je gaat terug naar binnen  B. Je blijft buiten en gaat een rondje lopen.");
+     answer = question()
+    if (answer == 'a'){
+        text8()
+    }
+    else{
+        text14()
+    }
+}
+    
 function text8(){
-   console.log("Het boeit je allemaal niet zoveel je hebt beneden nog wat planken liggen dus je pakt die en timmert alles dicht en je wilt niks te maken hebben met de buiten wereld.");
+   console.log("Het boeit je allemaal niet zoveel je hebt beneden nog wat planken liggen dus je pakt die en timmert alles dicht en je wilt niks meer te maken hebben met de buiten wereld.");
    console.log("Het enige probleem is dat je niet zo veel eten meer in huis hebt en rustig aan moet doen.");
-   console.log("Je start je computer op om weer call of dutty met ded boys te gaan doen alleen krijg je geen reactie op je berichtjes en zie je dat ze je gebelt hebben.");
-   console.log//// hier komt een vraag///.
+   console.log("Je start je computer op om weer call of dutty met de boys te gaan doen alleen krijg je geen reactie op je berichtjes en zie je dat ze je gebelt hebben.");
+   console.log("A. Het zit wel goed. B. Je probeert ze te bereiken. ");
+    answer = question()
    if (answer == 'a'){
        text9()
    }
    else{
-    text24()       /// klopt nog niet /// 
+    text3()   
    }
-
-
-/// functie 24 ///
 
 }
 
@@ -58,6 +68,7 @@ function text8(){
 function text9(){
     console.log("Je wou ze gaan zoeke maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft jewel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.");
     console.log("A. Ga ja de planken weg halen? B. Je laat het zitten voor je eigen veiligheid.");
+    answer = question()
     if (aswer == 'a'){
         text?()          /// klopt niet ///
        }
@@ -72,6 +83,7 @@ function text10(){
     console.log("Het probleem is dat je zo juist je 1 naar laatste maaltijd op hebt dus je zou tot morgen kunnen eten.");
     console.log("Je brengt de avond door net zoals elke andere avond maar toch blijf je erg bezorgt over je vrienden maar het al vast goed met hun gaan");
     console.log("A. je gaat naar buiten om eten te halen. B. Je blijft binnen en doet het met het eten dat je hebt.");
+    answer = question()
     if (answer == 'a'){
         text11()
        }
@@ -87,8 +99,43 @@ function text11(){
     console.log("je hebt besloten om setjes bij elkaar te leggen dus de bezem en het toetsen bord gaan samen en de honkbalknuppel en het hand pistool.");
     console.log("welke neem je?");
     console.log("A.  de bezem en het toetsenbord. B. Honbal en het hand pistool");
+    answer = question()
     if (answer == 'a'){
-        text
+        text19()
+    }
+    else{
+        text12()
+    }
+}
+function text19(){
+    console.log("De bezem gooi je weg en je pakt het toetsenbord.");
+    console.log("Je hebt nog waat spijkers en lijm.");
+    console.log("Je doed al het lijm over je toetsenbord al het lijk gaat tussen de toetsen zitten je duwt de achter kant van de spijkers in het toetsenbord met lijk zo dat de punten uit steken.");
+    console.log("Je opend de deur en het lijkt rustig tot er op eens zombie's op je af komen rennen je slaat in het rond met je teotsenbord en het werkt verbazingwekend goed.");
+    console.log("A. Je gaat veder naar buiten om eten te zoeken.  B. Je gaat weer terug naar binnen om dat je je daar veiliger voelt");
+    answer = question()
+    if (answer == 'a'){
+        text20()
+    }
+    else{
+        text10()
+    }
+}    
+    
+function text20(){
+    console.log("Je loopt richting de super markt waar in het erg rustig was er liep niemand op straat.");
+    console.log("Je komt aan bij de supper mark waar niemand is het is er erg stil de deur zit op slot."):
+    console.log("Je ziet de sleutel liggen en probeert de deur open te maken tot er heel wat zombies op je af komen je pakt je toetsenbord en slaat op ze in.");
+    console.log(
+
+
+    
+function text12(){
+    console.log("Perfect we hebben ergens nog een holster vandaan kunnen halen het pistool zit vast in zijn holster en houd de honkbalknuppel goed stevig vast.");
+    console.log("Je maakt de deur open en schrikt van de ravage buiten je word aangevallen door wel 10 zombies je probeert ze nog weg te slaan");
+    console.log("Maar het heeft allemaal geen zin meer jeword mee gesleurd en je hebt apokolips niet overleefd.");
+    console.log###################################################################################################################################################
+
 
     
 function text1(){
@@ -103,13 +150,11 @@ function text1(){
         text2()
     }
     else{
-        text13()
+        text15()
     }
 }
 
-function text13(){ //// komt vervolg ////
-    console.log()
-
+////// moet nog geschreven worden. ///////
 
 
 
@@ -235,6 +280,5 @@ function text6(){
     console.log("jullie biggenen te juigen en pakken alles in jij haalt de auto alvast jullie hebben de auto in gepakt en beginnen aan een toch van 10 dagen rijden.");
     console.log("Een maal thuis aan gekomen pakt iedereen de belangrijkste spullen uit hun huis jullie rijden naar jouw huis en beginnen daar met het schoon maken van alles.");
     console.log("Na alles beslissen jullie samnen te gaan wonen aan gezien alles wat jullie hadden aan familie niet terug te vinden zijn jullie wonen nog lang en gelukkig in het huis en jullie hebben deze vreselijke apokolips oveleefd");
-
-
+    console.log #########################################################################################################################################################################################
 }
