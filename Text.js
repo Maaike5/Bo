@@ -50,19 +50,47 @@ function text8(){
    }
 
 
-
+/// functie 24 ///
 
 }
 
 
 function text9(){
-console.log("Je wou ze gaan zoeke maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft jewel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.");
-console.log("");    /// komt nog ///
-
+    console.log("Je wou ze gaan zoeke maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft jewel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.");
+    console.log("A. Ga ja de planken weg halen? B. Je laat het zitten voor je eigen veiligheid.");
+    if (aswer == 'a'){
+        text?()          /// klopt niet ///
+       }
+    else{
+        text10()
+    }
+    
 }
-/// functie 24 ///
 
-/// functie text23 ///
+function text10(){
+    console.log("Je zit nu al 3 maanden binnen en het is erg rustig buiten en je hebt de afgelopen weken geen rare geluiden gehoord.");
+    console.log("Het probleem is dat je zo juist je 1 naar laatste maaltijd op hebt dus je zou tot morgen kunnen eten.");
+    console.log("Je brengt de avond door net zoals elke andere avond maar toch blijf je erg bezorgt over je vrienden maar het al vast goed met hun gaan");
+    console.log("A. je gaat naar buiten om eten te halen. B. Je blijft binnen en doet het met het eten dat je hebt.");
+    if (answer == 'a'){
+        text11()
+       }
+    else{
+        text100() /// klopt niet /// 
+    }
+}    
+    /// komt function 100 ///
+
+function text11(){
+    console.log("Je moet toch echt naar buiten om eten te gaan halen maar ja wat neem je precies mee?");
+    console.log("Je gaat de berging in en vind een honkbalknuppel, een verslete bezem, een toetsen bord en een hand pistool.");
+    console.log("je hebt besloten om setjes bij elkaar te leggen dus de bezem en het toetsen bord gaan samen en de honkbalknuppel en het hand pistool.");
+    console.log("welke neem je?");
+    console.log("A.  de bezem en het toetsenbord. B. Honbal en het hand pistool");
+    if (answer == 'a'){
+        text
+
+    
 function text1(){
     console.log("Je kleed je snel aan en kijkt op je telefoon wat er aan de hand is. Op het nieuws staat er dat er een apokolips is uitgebroken en je zo snel mogelijk weg moet.");
     console.log("Je telefoon word overspoeld met berichten je pakt snel een grote tas om er wat spullen te pakken.");
@@ -200,6 +228,13 @@ function text20(){
 
 
 function text6(){
-    console.log("gelukkig ben je binnen gebleven jullie eten en drinken begint op te raken jullie hebben 1 telefoon die het nog doed jullie willen het nieuws checken of jullie weer veilig naar huis kunne");
-    console.log("");
+    console.log("Gelukkig ben je binnen gebleven jullie eten en drinken begint op te raken jullie hebben 1 telefoon die het nog doed jullie willen het nieuws checken of jullie weer veilig naar huis kunne");
+    console.log("Of jullie nog langer moeten blijven jullie bepalen dat jullie toch gaan kijken je opent het luik en er komt heel vel licht naar binnen maar het ziet er rustig uit je opent de telefoon en krijgt heel even berijk");
+    console.log("Maar niet genoeg jullie beseffen jullie dat er in de auto nog een sateliet lag jullie pakken die en zoeken verbinding na een uur zoeken naar een signaal vinden jullie eindelijk een sigaal en opent je telefoon");
+    console.log("je begint te lezen na een tijdje vind je uit dat sinds vorige week alles voor bij is en dat de ravage opgeruimd word.");
+    console.log("jullie biggenen te juigen en pakken alles in jij haalt de auto alvast jullie hebben de auto in gepakt en beginnen aan een toch van 10 dagen rijden.");
+    console.log("Een maal thuis aan gekomen pakt iedereen de belangrijkste spullen uit hun huis jullie rijden naar jouw huis en beginnen daar met het schoon maken van alles.");
+    console.log("Na alles beslissen jullie samnen te gaan wonen aan gezien alles wat jullie hadden aan familie niet terug te vinden zijn jullie wonen nog lang en gelukkig in het huis en jullie hebben deze vreselijke apokolips oveleefd");
+
+
 }
