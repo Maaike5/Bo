@@ -33,10 +33,10 @@ function text7(){
         text8()
     }
     else{
-        text13()    
+        text18()    
     }
 }
-function text13(){
+function text18(){
      console.log("Je kleed je aan en gaat nog wat eten voor je naar buiten gaat je hebt nog niet naar buiten gekeken of iets.");
      console.log("Het is erg stil je doet de deur open en ziet een grote ravage");
      console.log("A. Je gaat terug naar binnen  B. Je blijft buiten en gaat een rondje lopen.");
@@ -66,8 +66,8 @@ function text8(){
 
 
 function text9(){
-    console.log("Je wou ze gaan zoeke maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft jewel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.");
-    console.log("A. Ga ja de planken weg halen? B. Je laat het zitten voor je eigen veiligheid.");
+    console.log("Je wou ze gaan zoeken maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft je wel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.");
+    console.log("A. je haalt de planken weg B. Je laat het zitten voor je eigen veiligheid.");
     answer = question()
     if (aswer == 'a'){
         text?()          /// klopt niet ///
@@ -101,13 +101,13 @@ function text11(){
     console.log("A.  de bezem en het toetsenbord. B. Honbal en het hand pistool");
     answer = question()
     if (answer == 'a'){
-        text19()
+        text13()
     }
     else{
         text12()
     }
 }
-function text19(){
+function text13(){
     console.log("De bezem gooi je weg en je pakt het toetsenbord.");
     console.log("Je hebt nog waat spijkers en lijm.");
     console.log("Je doed al het lijm over je toetsenbord al het lijk gaat tussen de toetsen zitten je duwt de achter kant van de spijkers in het toetsenbord met lijk zo dat de punten uit steken.");
@@ -115,14 +115,14 @@ function text19(){
     console.log("A. Je gaat veder naar buiten om eten te zoeken.  B. Je gaat weer terug naar binnen om dat je je daar veiliger voelt");
     answer = question()
     if (answer == 'a'){
-        text20()
+        text14()
     }
     else{
         text10()
     }
 }    
     
-function text20(){
+function text14(){
     console.log("Je loopt richting de super markt waar in het erg rustig was er liep niemand op straat.");
     console.log("Je komt aan bij de supper mark waar niemand is het is er erg stil de deur zit op slot."):
     console.log("Je ziet de sleutel liggen en probeert de deur open te maken tot er heel wat zombies op je af komen je pakt je toetsenbord en slaat op ze in.");
@@ -167,13 +167,13 @@ function text2(){
     console.log("Je neemt ook je oude honkbal knuppel mee zal vast van pas komen.");
     console.log("ok liggen er nog heel wat gefulde jerrycans die gefulld zijn je zet de laatste jerrycan er in en krijgt een belletje een belletje van Bradley.");
     console.log("Hij vroeg of je hem wou ophalen met de Toyota landrover je word ook door Lars, Koen en Remke gebeld of je hun kan ophalen je bent erg aan het twijvelen heb ik wel genoeg plek gaat het wel allemaal passen.");
-    console.log("A. je hebt genoeg plek dus waarom ook niet. B. je hebt te weinig plek.");
+    console.log("A. je hebt genoeg plek dus waarom ook niet. B. je beseft je dat het geen zin heeft en blijft thuis.");
     answer = question()
     if(answer == 'a'){
         text3()
     }
     else{
-        text30 /// klopt nog niet///
+        text8()
     }
 }
 
@@ -196,13 +196,6 @@ function text3(){
     }
 }
 
-
-function text30(){
-}
-
-
-
-
 function text17(){
     console.log("Jullie zijn toch maar gestopt om te helpen jij en Lars stappen uit.");
     console.log("Daar voor hebben jullie nog een afspraak gemaakt dat stel ze zouden iets doen dat Bradley, Remke en Koen iets zouden doen en dat er altijd 2 in/ bij de auto blijven met allebij wapens.");
@@ -210,11 +203,19 @@ function text17(){
     console.log("Ze hebben alleen bijna geen benzine meer waar door ze aan ons vroegen of we nog benzine hadden en wij zijden uiteraart nee maar dat geloofde ze niet.");
     console.log("De mensen werden boos en ze richten op eens een wapen op Jouw. Bradley, Koen en Remke zagen het. Koen kwam helpen Lars was snel een bosje in gedoken.");
     console.log("Koen ging richting Lars en gaf hem een gun ze kwamen bij hun van achter wat ze niet door hadden waardoor ze makkelijk allebij uitgeschakelt en jullie pakken de waarde vollen spullen uit de auto van hun en beginnen weer met rijden.");
- /// komt nog ////
-
-
-
-
+    console.log("Jullie zijn nu al een dag onder weg en hebben heel veel dingen mee gemaakt de sweer is grauw maar jullie blijven gaan Lars zegt het begint nu wel een beetje te erg op een game te lijken.");
+    console.log("Ja ik heb nog nooit een geweer vast gehouden of uber houd geschoten hoe gaan we dit doen je zegt tegen de groep we hebben een plan nodig we kunnen wel eindeloos rijden maar dat gaat hem niet worden anders worden we van zelf gevonden.");
+    console.log("Ja je hebt gelijk we moeten een plan maken over een kleine 40 Km zit een klein dorpje als we daar naar toe gaan en dan alles halen wat er te vinden is.");
+    console.log("We gaan dan door naar een groot bos waar we met de auto door heen rijden midden in het bos stoppen we en maken we met de tenten die we geen een soort huis in de grond we graven een groot gat wen we gebruiken iets wat we vinden in het dop als dak en we maken een soort luik we gooien er aarden en bladeren over heen zo dat het lijkt als een vloer in het bos.");
+    console.log("De auto pakeren we ergens in de bosjes. Er word een stemming gehouden of we het gaan doen of niet jij hebt de door slag gevende stem gaan we eindeloos rondjes rijden of gaan we het plan volgen?");
+    console.log("A. Volgen jullie het plan? B. Of volgen jullie het plan niet?");
+    answer = question()
+     if(answer == 'a'){
+        text5()
+     }
+     else{
+        text21()
+     }
 }
 
 function text4(){
@@ -229,11 +230,11 @@ function text4(){
         text5()
      }
      else{
-        text19()
+        text21()
      }
 }
 
-function text19(){
+function text21(){
 
 
 
@@ -256,18 +257,23 @@ function text5(){
      console.log("Lars en jij gaan de auto veerstoppen Koen en Bradley verfen nog een laag en gooien aarden en blaadjes op de natte verf zodat dat blijft zitten de auto is verstopt en jullie leggen samen het dak er op en leggen nog meer aarden en blaadjes er op ook maken jullie het luik vast en gaan allemaal naar binnen.");
      console.log("jullie zijn in middels al 6 maanden veder en alles gaat goed jullie hebben genoeg spellen bij jullie dus jullie vervelen je niet snel. Opeens hoor je een hele hoop geschreeuw en kabaal.");
      console.log(" Je twijfelt om naar buiten te gaan of binnen te blijven wat doe je?");
+     console.log("A. Je blijft toch maar binnen. B. je gaat toch maar naar buiten.");
      answer = question()
      if(answer == 'a'){
         text6()
      }
      else{
-        text20() //// nog niet geschreven ////
+        text20() 
      }
 }
 
 function text20(){
-
-
+    console.log("Je bent naar buiten gegaan zonder enige voorbereiding.");
+    console.log("Je doet de deur open en loopt een stukje je loopt een steegje in en je ziet op eens heel veel zombie's staan.")
+    console.log("Je rend zo hard als je kan tot de steeg ophoud.");
+    console.log("Je word opgegeten door de zombie's");
+    console.log("Helaas heb je de Zombie apokolips niet overleefd");
+    console.log #########################################################################################################################################
 }
 
 
