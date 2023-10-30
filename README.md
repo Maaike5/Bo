@@ -49,22 +49,22 @@ De tijd vloog voorbij na heel wat potjes shipment in call of duty modenwarver wa
 Ze besloten maar te gaan slapen en de volgende dag veder te gaan.
 Opeens ging het lucht alarm af je shrikt wakker en beseft je nog niet wat er allemaal gebeurd aangezien je net een uur lag te slapen.
 
-1. Het boeit je allemaal niet zo veel wat er gaande is dus doet het licht weer uit en gaat veder slapen. Je hoort buiten wat geschreeuw en paniek maar omdat je zo moe bent heb je daar maar 5 minuten naar geluisterd en ben je inslaap gevallen. Je hebt heel wat telefoontjes gemist en het nieuws staat op zen kop.
+7. Het boeit je allemaal niet zo veel wat er gaande is dus doet het licht weer uit en gaat veder slapen. Je hoort buiten wat geschreeuw en paniek maar omdat je zo moe bent heb je daar maar 5 minuten naar geluisterd en ben je inslaap gevallen. Je hebt heel wat telefoontjes gemist en het nieuws staat op zen kop.
 
 
-2. Het boeit je allemaal niet zoveel je hebt beneden nog wat planken liggen dus je pakt die en timmert alles dicht en je wilt niks te maken hebben met de buiten wereld.Het enige probleem is dat je niet zo veel eten meer in huis hebt en rustig aan moet doen. Je start je computer op om weer call of dutty met ded boys te gaan doen alleen krijg je geen reactie op je berichtjes en zie je dat ze je gebelt hebben.
+8. Het boeit je allemaal niet zoveel je hebt beneden nog wat planken liggen dus je pakt die en timmert alles dicht en je wilt niks te maken hebben met de buiten wereld.Het enige probleem is dat je niet zo veel eten meer in huis hebt en rustig aan moet doen. Je start je computer op om weer call of dutty met ded boys te gaan doen alleen krijg je geen reactie op je berichtjes en zie je dat ze je gebelt hebben.
 
 
-3. Je wou ze gaan zoeke maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft jewel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.
+9. Je wou ze gaan zoeke maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft jewel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.
 
 
 
-4. Je zit nu al 3 maanden binnen en het is erg rustig buiten en je hebt de afgelopen weken geen rare geluiden gehoord. Het probleem is dat je zo juist je 1 naar laatste maaltijd op hebt dus je zou tot morgen kunnen eten. Je brengt de avond door net zoals elke andere avond maar toch blijf je erg bezorgt over je vrienden maar het al vast goed met hun gaan.
+10. Je zit nu al 3 maanden binnen en het is erg rustig buiten en je hebt de afgelopen weken geen rare geluiden gehoord. Het probleem is dat je zo juist je 1 naar laatste maaltijd op hebt dus je zou tot morgen kunnen eten. Je brengt de avond door net zoals elke andere avond maar toch blijf je erg bezorgt over je vrienden maar het al vast goed met hun gaan.
 
 
-5. je moet toch echt naar buiten om eten te gaan halen maar ja wat neem je precies mee. Je gaat de berging in en vind een honkbalknuppel, een veroote bezem, een toetsen bord en een hand pistool. je hebt besloten om zetjes bij elkaar te leggen dus de bezem en het toetsen bord gaan samen en de hankbalknuppel en het hand pistool. Welke nemen we mee?
+11. je moet toch echt naar buiten om eten te gaan halen maar ja wat neem je precies mee. Je gaat de berging in en vind een honkbalknuppel, een veroote bezem, een toetsen bord en een hand pistool. je hebt besloten om zetjes bij elkaar te leggen dus de bezem en het toetsen bord gaan samen en de hankbalknuppel en het hand pistool. Welke nemen we mee?
 
- 6. perfect we hebben ergens nog een holster vandaan kunnen halen het pistool zit vast in zijn holster en houd de honkball stevig vast. Je maakt de deur open en schrikt van de ravage buiten je word aangevallen door wel 10 zombies je probeert ze nog weg te slaan maar het heeft allemaal geen zin meer jeword mee gesleurd en je hebt apokolips niet overleefd.
+ 12. perfect we hebben ergens nog een holster vandaan kunnen halen het pistool zit vast in zijn holster en houd de honkball stevig vast. Je maakt de deur open en schrikt van de ravage buiten je word aangevallen door wel 10 zombies je probeert ze nog weg te slaan maar het heeft allemaal geen zin meer jeword mee gesleurd en je hebt apokolips niet overleefd.
 
 
 
