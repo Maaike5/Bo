@@ -126,7 +126,17 @@ function text14(){
     console.log("Je loopt richting de super markt waar in het erg rustig was er liep niemand op straat.");
     console.log("Je komt aan bij de supper mark waar niemand is het is er erg stil de deur zit op slot."):
     console.log("Je ziet de sleutel liggen en probeert de deur open te maken tot er heel wat zombies op je af komen je pakt je toetsenbord en slaat op ze in.");
-    console.log(
+    console.log("Je ziet heel veel eten liggen dus je pakt alles mee je hebt nu voorlopig genoeg eten.")
+    console.log("Je hebt thuis alles op ge borgen ga je veder nog een rondje lopen of blijf je binnen.");
+    console.log("A. Je loopt veder nog een rondje. B. Je gaat weer terug naar binnen omdat dat veiliger voelt.");
+    answer = question()
+    if (answer == 'a'){
+        text23()
+    }
+    else{
+        text10()
+    }
+}    
 
 
     
@@ -135,6 +145,7 @@ function text12(){
     console.log("Je maakt de deur open en schrikt van de ravage buiten je word aangevallen door wel 10 zombies je probeert ze nog weg te slaan");
     console.log("Maar het heeft allemaal geen zin meer jeword mee gesleurd en je hebt apokolips niet overleefd.");
     console.log###################################################################################################################################################
+}
 
 
     
@@ -153,11 +164,20 @@ function text1(){
         text15()
     }
 }
-
-////// moet nog geschreven worden. ///////
-
-
-
+function text15(){
+    console.log("Je vind 24 flesjes toch iets te veel en neemt er 12 mee zo nu past er wel een extra jerrycan in, je rent naar de auto en begint hem vol te stoppen met al je spullen je gaat naar de schuur om wapens te vinden.");
+    console.log("Gelukkig heb je dat wapen van je vader bewaart helaas wel maar 10 clips maar beter iets dan niets. Je neemt ook je oude honkbal knuppel mee zal vast van pas komen.");
+    console.log("Ook liggen er nog heel wat gefulde jerrycans die gefulld zijn je zet de laatste jerrycan er in en krijgt een belletje een belletje van Bradley.");
+    console.log("Hij vroeg of je hem wou ophalen met de Toyota landrover je word ook door Lars, Koen en Remke gebeld of je hun kan ophalen je benterg aan het twijvelen heb ik wel genoeg plek gaat het wel allemaal passen?");
+    console.log("Tuurlijk je haalt de rest op en begint met rijden je komt langs wat mensen die stil staan ga je stoppen?");
+    console.log("A. Je stopt en gaat de mensen helpen B. Je rijd door want je weet maar nooit wat er gebeurt.");
+     answer = question()
+    if(answer == 'a'){
+        text17()
+    }
+    else{
+        text4()
+    }
 }
 
 
@@ -235,18 +255,34 @@ function text4(){
 }
 
 function text21(){
+     console.log("Jullie Hebben gekozen om niet het plan te volgen.");
+     console.log("Jullie zijn wel naar het dorp gegaan en het leeg te halen.");
+     console.log("Jullie hebben de spullen voor het plan gaan we dan maar toch het plan uitvoeren?");
+     console.log("A. Jullie volgen toch maar het plan. A. Jullie blijven toch maar rijden");
+     answer = question()
+     if(answer == 'a'){
+         text5()
+     }
+     else{
+         text22()
+     }
+}    
 
-
-
-
-
-
+function text22(){
+    console.log("Jullie rijden heel lang veder in middels zitten jullie ergens waar jullie het bestaan niet van wisten het plaatsje heet Urk en het licht zoon 5750KM bij jouw huis van daan.");
+    console.log("Jullie beginen toch wel er ge heimwee te krijgen en willen graag naar huis toe maar dat kan nog niet helaas.");
+    console.log("Het is in middels zoon maand veder en jullie voetsel begint op te raken ");
+    console.log("Jullie hebben het lang vol ge houden alleen is er vanacht iets ergs gebeurt Koen is vanacht helaas overleden hij had te weinig gegeten.");
+    console.log("Jullie waren er zo kapot van dat jullie zelf niet meer door wouden jullie waren zo met Koen bezig waardoor jullie van achter aan gevallen werden jullie hebben nog geprobeert om jullie te reden maar dat is niet gelukt.");
+    console.log("Helaas heb je het niet over leeft je hebt erg je best gedaan maar het is je helaas niet gelukt");
+    console.log#############################################################################################################################################################################################
 }
+    
 
 
 
 function text5(){
-     console.log("Jullie volgen het plan en gaan naar dat dorp veder op voor jullie gevoel zit er pas een week op maar door dat jullie geen tijd besef meer heben is er al een 3 weken voor bij.");
+     console.log("Jullie volgen het toch maar het plan en gaan naar dat dorp veder op voor jullie gevoel zit er pas een week op maar door dat jullie geen tijd besef meer heben is er al een 3 weken voor bij.");
      console.log("Het lijkt er op dat de zombies al voorbij het dorp zijn gegaan het is er uit gestorven jullie beginnen alles leeg te halen jullie vinden wat extra jerrycans heel wat eten en drinken zo we kunnen hier zeker wel een jaar mee door.");
      console.log("Jullie vinden een aarde achtige kleur verf een een groten metalen plaat jullie nemen dat mee ook hebben jullie een houte plaat gevonden perfect voor het luik.");
      console.log("Ook nemen jullie nog heel wat spullen mee uit huizen die helemaal leeg staan powerbanks oplaad snoeren.")
