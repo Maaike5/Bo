@@ -127,7 +127,7 @@ function text19(){
         text0()
     }
     else{
-        Einde()
+        text24()
     }
 }
 
@@ -338,7 +338,7 @@ function text22(){
         text0()
     }
     else{
-        Einde()
+        text24()
     }
 }
     
@@ -381,7 +381,7 @@ function text20(){
         text0()
     }
     else{
-        Einde()
+        text24()
     }
 }
 
@@ -401,11 +401,11 @@ function text6(){
         text0()
     }
     else{
-        Einde()
+        text24()
     }
 }
 
-function Einde(){
+function text24(){
     console.log("Dit was het dan het einden van deze text base adventare ik hoop dat je het leuk vond.")
     console.log("###########################################################################################################################################################################################################################################");
 }
