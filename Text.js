@@ -14,6 +14,14 @@ function begin(){
     console.log("De tijd vloog voorbij na heel wat potjes shipment in call of duty modenwarver was het al weer 4 uur snacht's");
     console.log("Jullie besloten maar te gaan slapen en de volgende dag veder te gaan.");
     console.log("Opeens ging het lucht alarm af je shrikt wakker en beseft je nog niet wat er allemaal gebeurd aangezien je net een uur lag te slapen.");
+    console.log("|                              ");
+    console.log("|                              ");
+    console.log("|                              ");
+    console.log("|______                      | ");
+    console.log("|______|_____________________| ");
+    console.log("|                            | ");
+    console.log("|                            | ");
+    console.log("|                            | ");
     console.log("A. je blijft liggen. B. Je gaat kijken naar het nieuws en een plan verzinnen.");
     answer = question()
     if (answer == 'a'){
@@ -70,13 +78,27 @@ function text9(){
     console.log("A. je haalt de planken weg B. Je laat het zitten voor je eigen veiligheid.");
     answer = question()
     if (aswer == 'a'){
-        text?()          /// klopt niet ///
+        text16()       
        }
     else{
         text10()
     }
     
 }
+function text16(){
+    console.log("Je haalt de planken weg er komt een heel vel licht binnen je ogen doen erg pijn en je ziet helemaal niks.");
+    console.log("Je schiet in paniek om dat je niets kon zien.");
+    console.log("Je Komt weer een beetje bij na 10 minuten je kijkt nog een keer goed naar buiten het ziet er heel uitgestorven uit.");
+    console.log("Je twijfelt om naar buien te gaan want je eten is bijna op.");
+    console.log("A. Je blijft nog binnen want je vind ht te eng om naar buiten te gaan. B. Je gaat naar buiten om eten te halen");
+    answer = question()
+    if (answer == 'a'){
+        text19()
+    }
+    else{
+        text11()
+    }
+}    
 
 function text10(){
     console.log("Je zit nu al 3 maanden binnen en het is erg rustig buiten en je hebt de afgelopen weken geen rare geluiden gehoord.");
@@ -88,10 +110,26 @@ function text10(){
         text11()
        }
     else{
-        text100() /// klopt niet /// 
+        text19()
     }
 }    
-    /// komt function 100 ///
+function text19(){
+    console.log("Je kleed je aan en haalt de planken voor de deur weg.");
+    console.log("Je loopt naar buiten richting de supper markt.");
+    console.log("Je loopt een steegje in omdat je het gevoel hebt dat je achtervolgd word je kijkt achter om en ziet 5 zombies je achter volgen. ");
+    console.log("Je rent zo snel mogelijk en je komt aan het einde van de steeg normaal is die altijd open maar er staat een ontplofte auto bij de uitgang.");
+    console.log("Je probeert over de ontplofte auto te klimmen je bent er bijna over heen tot je terug getrokken word aan je been je valt lelijk op de grond en word gebeten je bent helaas niet meer te reden.");
+    console.log("Helaas heb je de apocalyps niet overleefd.");
+    console.log######################################################################################################################################################################################################
+    console.log("Dit was het dan het einden van dit verhaal.");
+    console.log("A. als je op nieuw wilt beginen. B. Om naar het einde te gaan.");
+     if (answer == 'a'){
+        begin()
+    }
+    else{
+        Einde()
+    }
+}
 
 function text11(){
     console.log("Je moet toch echt naar buiten om eten te gaan halen maar ja wat neem je precies mee?");
@@ -145,6 +183,14 @@ function text12(){
     console.log("Je maakt de deur open en schrikt van de ravage buiten je word aangevallen door wel 10 zombies je probeert ze nog weg te slaan");
     console.log("Maar het heeft allemaal geen zin meer jeword mee gesleurd en je hebt apokolips niet overleefd.");
     console.log###################################################################################################################################################
+    console.log("Dit was het dan het einden van dit verhaal.");
+    console.log("A. als je op nieuw wilt beginen. B. Om naar het einde te gaan.");
+     if (answer == 'a'){
+        begin()
+    }
+    else{
+        Einde()
+    }    
 }
 
 
@@ -275,7 +321,23 @@ function text22(){
     console.log("Jullie hebben het lang vol ge houden alleen is er vanacht iets ergs gebeurt Koen is vanacht helaas overleden hij had te weinig gegeten.");
     console.log("Jullie waren er zo kapot van dat jullie zelf niet meer door wouden jullie waren zo met Koen bezig waardoor jullie van achter aan gevallen werden jullie hebben nog geprobeert om jullie te reden maar dat is niet gelukt.");
     console.log("Helaas heb je het niet over leeft je hebt erg je best gedaan maar het is je helaas niet gelukt");
+    console.log("               ");
+    console.log(" (```````)___  ");
+    console.log(" ( x . x )");
+    console.log("  ( (x) )");
+    console.log(" /|     |\ ");
+    console.log("/ |_____| \  ");
+    console.log("   /   \     ");
+    console.log("  /     \   ");
     console.log#############################################################################################################################################################################################
+    console.log("Dit was het dan het einden van dit verhaal.");
+    console.log("A. als je op nieuw wilt beginen. B. Om naar het einde te gaan.");
+     if (answer == 'a'){
+        begin()
+    }
+    else{
+        Einde()
+    }
 }
     
 
@@ -310,6 +372,14 @@ function text20(){
     console.log("Je word opgegeten door de zombie's");
     console.log("Helaas heb je de Zombie apokolips niet overleefd");
     console.log #########################################################################################################################################
+    console.log("Dit was het dan het einden van dit verhaal.");
+    console.log("A. als je op nieuw wilt beginen. B. Om naar het einde te gaan.");
+     if (answer == 'a'){
+        begin()
+    }
+    else{
+        Einde()
+    }
 }
 
 
@@ -324,3 +394,7 @@ function text6(){
     console.log("Na alles beslissen jullie samnen te gaan wonen aan gezien alles wat jullie hadden aan familie niet terug te vinden zijn jullie wonen nog lang en gelukkig in het huis en jullie hebben deze vreselijke apokolips oveleefd");
     console.log #########################################################################################################################################################################################
 }
+
+function Einde(){
+    console.log("Dit was het dan het einden van deze text base adventare ik hoop dat je het leuk vond.")
+    console.log###########################################################################################################################################################################################################################################
