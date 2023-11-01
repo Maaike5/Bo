@@ -1,15 +1,14 @@
 let readlineSync = require('readline-sync')
-begin()
+text0()
 
-function vraag(){
+function text(){
     let answer = ''
     while (answer != 'a' && answer != 'b'){
         answer = readlineSync.question('Welke kies jij? (A / B) :').tolowerCase()
     }
      return answer
 }
-
-function begin(){
+function text0(){
     console.log("Het was vanacht weer eens laat de 4 vrienden waren aan het gamen tot diep in de nacht.");
     console.log("De tijd vloog voorbij na heel wat potjes shipment in call of duty modenwarver was het al weer 4 uur snacht's");
     console.log("Jullie besloten maar te gaan slapen en de volgende dag veder te gaan.");
@@ -22,8 +21,8 @@ function begin(){
     console.log("|                            | ");
     console.log("|                            | ");
     console.log("|                            | ");
-    console.log("A. je blijft liggen. B. Je gaat kijken naar het nieuws en een plan verzinnen.");
-    answer = question()
+    console.log("A. je blijft liggen. / B. Je gaat kijken naar het nieuws en een plan verzinnen.");
+    answer = readlineSync.question()
     if (answer == 'a'){
         text7()
     }
@@ -36,7 +35,7 @@ function text7(){
     console.log("Het boeit je allemaal niet zo veel wat er gaande is dus doet het licht weer uit en gaat veder slapen. Je hoort buiten wat geschreeuw en paniek maar omdat je zo moe bent heb je daar maar 5 minuten naar geluisterd en ben je inslaap gevallen. Je hebt heel wat telefoontjes gemist en het nieuws staat op zen kop");
     console.log("Je word wakker wat ga je doen?");
     console.log("A. je gaat gewoon veder alsof er niets aan de hand is. B. Je gaat toch maar buien kijken wat er aan de hand is.");
-    answer = question()
+    answer = readlineSync.question()
     if (answer == 'a'){
         text8()
     }
@@ -48,7 +47,7 @@ function text18(){
      console.log("Je kleed je aan en gaat nog wat eten voor je naar buiten gaat je hebt nog niet naar buiten gekeken of iets.");
      console.log("Het is erg stil je doet de deur open en ziet een grote ravage");
      console.log("A. Je gaat terug naar binnen  B. Je blijft buiten en gaat een rondje lopen.");
-     answer = question()
+     answer = readlineSync.question()
     if (answer == 'a'){
         text8()
     }
@@ -62,7 +61,7 @@ function text8(){
    console.log("Het enige probleem is dat je niet zo veel eten meer in huis hebt en rustig aan moet doen.");
    console.log("Je start je computer op om weer call of dutty met de boys te gaan doen alleen krijg je geen reactie op je berichtjes en zie je dat ze je gebelt hebben.");
    console.log("A. Het zit wel goed. B. Je probeert ze te bereiken. ");
-    answer = question()
+   answer = readlineSync.question()
    if (answer == 'a'){
        text9()
    }
@@ -76,7 +75,7 @@ function text8(){
 function text9(){
     console.log("Je wou ze gaan zoeken maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft je wel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.");
     console.log("A. je haalt de planken weg B. Je laat het zitten voor je eigen veiligheid.");
-    answer = question()
+    answer = readlineSync.question()
     if (aswer == 'a'){
         text16()       
        }
@@ -91,7 +90,7 @@ function text16(){
     console.log("Je Komt weer een beetje bij na 10 minuten je kijkt nog een keer goed naar buiten het ziet er heel uitgestorven uit.");
     console.log("Je twijfelt om naar buien te gaan want je eten is bijna op.");
     console.log("A. Je blijft nog binnen want je vind ht te eng om naar buiten te gaan. B. Je gaat naar buiten om eten te halen");
-    answer = question()
+    answer = readlineSync.question()
     if (answer == 'a'){
         text19()
     }
@@ -105,7 +104,7 @@ function text10(){
     console.log("Het probleem is dat je zo juist je 1 naar laatste maaltijd op hebt dus je zou tot morgen kunnen eten.");
     console.log("Je brengt de avond door net zoals elke andere avond maar toch blijf je erg bezorgt over je vrienden maar het al vast goed met hun gaan");
     console.log("A. je gaat naar buiten om eten te halen. B. Je blijft binnen en doet het met het eten dat je hebt.");
-    answer = question()
+    answer = readlineSync.question()
     if (answer == 'a'){
         text11()
        }
@@ -120,11 +119,12 @@ function text19(){
     console.log("Je rent zo snel mogelijk en je komt aan het einde van de steeg normaal is die altijd open maar er staat een ontplofte auto bij de uitgang.");
     console.log("Je probeert over de ontplofte auto te klimmen je bent er bijna over heen tot je terug getrokken word aan je been je valt lelijk op de grond en word gebeten je bent helaas niet meer te reden.");
     console.log("Helaas heb je de apocalyps niet overleefd.");
-    console.log######################################################################################################################################################################################################
+    console.log("######################################################################################################################################################################################################");
     console.log("Dit was het dan het einden van dit verhaal.");
     console.log("A. als je op nieuw wilt beginen. B. Om naar het einde te gaan.");
+    answer = readlineSync.question()
      if (answer == 'a'){
-        begin()
+        text0()
     }
     else{
         Einde()
@@ -137,7 +137,7 @@ function text11(){
     console.log("je hebt besloten om setjes bij elkaar te leggen dus de bezem en het toetsen bord gaan samen en de honkbalknuppel en het hand pistool.");
     console.log("welke neem je?");
     console.log("A.  de bezem en het toetsenbord. B. Honbal en het hand pistool");
-    answer = question()
+    answer = readlineSync.question()
     if (answer == 'a'){
         text13()
     }
@@ -151,7 +151,7 @@ function text13(){
     console.log("Je doed al het lijm over je toetsenbord al het lijk gaat tussen de toetsen zitten je duwt de achter kant van de spijkers in het toetsenbord met lijk zo dat de punten uit steken.");
     console.log("Je opend de deur en het lijkt rustig tot er op eens zombie's op je af komen rennen je slaat in het rond met je teotsenbord en het werkt verbazingwekend goed.");
     console.log("A. Je gaat veder naar buiten om eten te zoeken.  B. Je gaat weer terug naar binnen om dat je je daar veiliger voelt");
-    answer = question()
+    answer = readlineSync.question()
     if (answer == 'a'){
         text14()
     }
@@ -162,12 +162,12 @@ function text13(){
     
 function text14(){
     console.log("Je loopt richting de super markt waar in het erg rustig was er liep niemand op straat.");
-    console.log("Je komt aan bij de supper mark waar niemand is het is er erg stil de deur zit op slot."):
+    console.log("Je komt aan bij de supper mark waar niemand is het is er erg stil de deur zit op slot.");
     console.log("Je ziet de sleutel liggen en probeert de deur open te maken tot er heel wat zombies op je af komen je pakt je toetsenbord en slaat op ze in.");
     console.log("Je ziet heel veel eten liggen dus je pakt alles mee je hebt nu voorlopig genoeg eten.")
     console.log("Je hebt thuis alles op ge borgen ga je veder nog een rondje lopen of blijf je binnen.");
     console.log("A. Je loopt veder nog een rondje. B. Je gaat weer terug naar binnen omdat dat veiliger voelt.");
-    answer = question()
+    answer = readlineSync.question()
     if (answer == 'a'){
         text23()
     }
@@ -182,11 +182,12 @@ function text12(){
     console.log("Perfect we hebben ergens nog een holster vandaan kunnen halen het pistool zit vast in zijn holster en houd de honkbalknuppel goed stevig vast.");
     console.log("Je maakt de deur open en schrikt van de ravage buiten je word aangevallen door wel 10 zombies je probeert ze nog weg te slaan");
     console.log("Maar het heeft allemaal geen zin meer jeword mee gesleurd en je hebt apokolips niet overleefd.");
-    console.log###################################################################################################################################################
+    console.log("###################################################################################################################################################");
     console.log("Dit was het dan het einden van dit verhaal.");
     console.log("A. als je op nieuw wilt beginen. B. Om naar het einde te gaan.");
+    answer = readlineSync.question
      if (answer == 'a'){
-        begin()
+        text0()
     }
     else{
         Einde()
@@ -202,7 +203,7 @@ function text1(){
     console.log("Ook pak je zoveel mogelijk elektronica mee je telefoon, al je powerbanks die opgeladen zijn, je stekkers voor als je moet opladen.");
     console.log("Je rent naar de keuken en pakt heel wat eten mee en met namen lang houd baar eten. Je pakt een grote tree met flesjes water mee 24 flesjes zullen wel genoeg zijn toch?");
     console.log("A. ja ik heb meer dan genoeg flesjes mee. B. Nee het is veel ste veel");
-    answer = question()
+    answer = readlineSync.question()
     if (answer == 'a'){
         text2()
     }
@@ -217,7 +218,7 @@ function text15(){
     console.log("Hij vroeg of je hem wou ophalen met de Toyota landrover je word ook door Lars, Koen en Remke gebeld of je hun kan ophalen je benterg aan het twijvelen heb ik wel genoeg plek gaat het wel allemaal passen?");
     console.log("Tuurlijk je haalt de rest op en begint met rijden je komt langs wat mensen die stil staan ga je stoppen?");
     console.log("A. Je stopt en gaat de mensen helpen B. Je rijd door want je weet maar nooit wat er gebeurt.");
-     answer = question()
+    answer = readlineSync.question()
     if(answer == 'a'){
         text17()
     }
@@ -234,7 +235,7 @@ function text2(){
     console.log("ok liggen er nog heel wat gefulde jerrycans die gefulld zijn je zet de laatste jerrycan er in en krijgt een belletje een belletje van Bradley.");
     console.log("Hij vroeg of je hem wou ophalen met de Toyota landrover je word ook door Lars, Koen en Remke gebeld of je hun kan ophalen je bent erg aan het twijvelen heb ik wel genoeg plek gaat het wel allemaal passen.");
     console.log("A. je hebt genoeg plek dus waarom ook niet. B. je beseft je dat het geen zin heeft en blijft thuis.");
-    answer = question()
+    answer = readlineSync.question()
     if(answer == 'a'){
         text3()
     }
@@ -253,7 +254,7 @@ function text3(){
     console.log(" Onder weg kwamen we mensen tegen die aan het swaaien waren voor hulp het leek er op deat hun brandstof op was jullie hadden nog 6 jerrycan's vol.");
     console.log("Je twijfelt zullen we ze helpen of rijden we door?");
     console.log("A. Jullie gaan ze helpen. B. Jullie rijden door want je weet maar nooit wat er gebeurt. ");
-    answer = question()
+    answer = readlineSync.question()
     if(answer == 'a'){
         text17()
     }
@@ -275,7 +276,7 @@ function text17(){
     console.log("We gaan dan door naar een groot bos waar we met de auto door heen rijden midden in het bos stoppen we en maken we met de tenten die we geen een soort huis in de grond we graven een groot gat wen we gebruiken iets wat we vinden in het dop als dak en we maken een soort luik we gooien er aarden en bladeren over heen zo dat het lijkt als een vloer in het bos.");
     console.log("De auto pakeren we ergens in de bosjes. Er word een stemming gehouden of we het gaan doen of niet jij hebt de door slag gevende stem gaan we eindeloos rondjes rijden of gaan we het plan volgen?");
     console.log("A. Volgen jullie het plan? B. Of volgen jullie het plan niet?");
-    answer = question()
+    answer = readlineSync.question()
      if(answer == 'a'){
         text5()
      }
@@ -291,7 +292,7 @@ function text4(){
      console.log("We gaan dan door naar een groot bos waar we met de auto door heen rijden midden in het bos stoppen we en maken we met de tenten die we geen een soort huis in de grond we graven een groot gat wen we gebruiken iets wat we vinden in het dop als dak en we maken een soort luik we gooien er aarden en bladeren over heen zo dat het lijkt als een vloer in het bos.");
      console.log("De auto pakeren we ergens in de bosjes. Er word een stemming gehouden of we het gaan doen of niet jij hebt de door slag gevende stem gaan we eindeloos rondjes rijden of gaan we het plan volgen?");
      console.log("A. Volgen jullie het plan? B. Of volgen jullie het plan niet?");
-     answer = question()
+     answer = readlineSync.question()
      if(answer == 'a'){
         text5()
      }
@@ -305,7 +306,7 @@ function text21(){
      console.log("Jullie zijn wel naar het dorp gegaan en het leeg te halen.");
      console.log("Jullie hebben de spullen voor het plan gaan we dan maar toch het plan uitvoeren?");
      console.log("A. Jullie volgen toch maar het plan. A. Jullie blijven toch maar rijden");
-     answer = question()
+     answer = readlineSync.question()
      if(answer == 'a'){
          text5()
      }
@@ -329,11 +330,12 @@ function text22(){
     console.log("/ |_____| \  ");
     console.log("   /   \     ");
     console.log("  /     \   ");
-    console.log#############################################################################################################################################################################################
+    console.log("#############################################################################################################################################################################################");
     console.log("Dit was het dan het einden van dit verhaal.");
     console.log("A. als je op nieuw wilt beginen. B. Om naar het einde te gaan.");
+    answer = readlineSync.question()
      if (answer == 'a'){
-        begin()
+        text0()
     }
     else{
         Einde()
@@ -356,7 +358,7 @@ function text5(){
      console.log("jullie zijn in middels al 6 maanden veder en alles gaat goed jullie hebben genoeg spellen bij jullie dus jullie vervelen je niet snel. Opeens hoor je een hele hoop geschreeuw en kabaal.");
      console.log(" Je twijfelt om naar buiten te gaan of binnen te blijven wat doe je?");
      console.log("A. Je blijft toch maar binnen. B. je gaat toch maar naar buiten.");
-     answer = question()
+     answer = readlineSync.question()
      if(answer == 'a'){
         text6()
      }
@@ -371,11 +373,12 @@ function text20(){
     console.log("Je rend zo hard als je kan tot de steeg ophoud.");
     console.log("Je word opgegeten door de zombie's");
     console.log("Helaas heb je de Zombie apokolips niet overleefd");
-    console.log #########################################################################################################################################
+    console.log("#########################################################################################################################################");
     console.log("Dit was het dan het einden van dit verhaal.");
     console.log("A. als je op nieuw wilt beginen. B. Om naar het einde te gaan.");
+    answer = readlineSync.question
      if (answer == 'a'){
-        begin()
+        text0()
     }
     else{
         Einde()
@@ -392,9 +395,17 @@ function text6(){
     console.log("jullie biggenen te juigen en pakken alles in jij haalt de auto alvast jullie hebben de auto in gepakt en beginnen aan een toch van 10 dagen rijden.");
     console.log("Een maal thuis aan gekomen pakt iedereen de belangrijkste spullen uit hun huis jullie rijden naar jouw huis en beginnen daar met het schoon maken van alles.");
     console.log("Na alles beslissen jullie samnen te gaan wonen aan gezien alles wat jullie hadden aan familie niet terug te vinden zijn jullie wonen nog lang en gelukkig in het huis en jullie hebben deze vreselijke apokolips oveleefd");
-    console.log #########################################################################################################################################################################################
+    console.log("#########################################################################################################################################################################################");
+    answer = readlineSync.question
+    if (answer == 'a'){
+        text0()
+    }
+    else{
+        Einde()
+    }
 }
 
 function Einde(){
     console.log("Dit was het dan het einden van deze text base adventare ik hoop dat je het leuk vond.")
-    console.log###########################################################################################################################################################################################################################################
+    console.log("###########################################################################################################################################################################################################################################");
+}
