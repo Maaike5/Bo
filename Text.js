@@ -13,20 +13,20 @@ function text(){
 
 
 function text0(){
-    console.log("Het was vanacht weer eens laat de 4 vrienden waren aan het gamen tot diep in de nacht.");
-    console.log("De tijd vloog voorbij na heel wat potjes shipment in call of duty modenwarver was het al weer 4 uur snacht's");
-    console.log("Jullie besloten maar te gaan slapen en de volgende dag veder te gaan.");
-    console.log("Opeens ging het lucht alarm af je shrikt wakker en beseft je nog niet wat er allemaal gebeurd aangezien je net een uur lag te slapen.");
-    console.log("|                              ");
-    console.log("|                              ");
-    console.log("|                              ");
-    console.log("|______                      | ");
-    console.log("|______|_____________________| ");
-    console.log("|                            | ");
-    console.log("|                            | ");
-    console.log("|                            | ");
-    console.log("a. je blijft liggen.  b. Je gaat kijken naar het nieuws en een plan verzinnen.");
-    answer = readlineSync.question()
+     console.log("Het was vanacht weer eens laat de 4 vrienden waren aan het gamen tot diep in de nacht.");
+     console.log("De tijd vloog voorbij na heel wat potjes shipment in call of duty modenwarver was het al weer 4 uur snacht's");
+     console.log("Jullie besloten maar te gaan slapen en de volgende dag veder te gaan.");
+     console.log("Opeens ging het lucht alarm af je shrikt wakker en beseft je nog niet wat er allemaal gebeurd aangezien je net een uur lag te slapen.");
+     console.log("|                              ");
+     console.log("|                              ");
+     console.log("|                              ");
+     console.log("|______                      | ");
+     console.log("|______|_____________________| ");
+     console.log("|                            | ");
+     console.log("|                            | ");
+     console.log("|                            | ");
+     console.log("a. je blijft liggen.  b. Je gaat kijken naar het nieuws en een plan verzinnen.");
+     answer = readlineSync.question()
     if (answer == 'a'){
         text7()
     }
@@ -39,10 +39,10 @@ function text0(){
 
 
 function text7(){
-    console.log("Het boeit je allemaal niet zo veel wat er gaande is dus doet het licht weer uit en gaat veder slapen. Je hoort buiten wat geschreeuw en paniek maar omdat je zo moe bent heb je daar maar 5 minuten naar geluisterd en ben je inslaap gevallen. Je hebt heel wat telefoontjes gemist en het nieuws staat op zen kop");
-    console.log("Je word wakker wat ga je doen?");
-    console.log("a. je gaat gewoon veder alsof er niets aan de hand is. b. Je gaat toch maar buien kijken wat er aan de hand is.");
-    answer = readlineSync.question()
+     console.log("Het boeit je allemaal niet zo veel wat er gaande is dus doet het licht weer uit en gaat veder slapen. Je hoort buiten wat geschreeuw en paniek maar omdat je zo moe bent heb je daar maar 5 minuten naar geluisterd en ben je inslaap gevallen. Je hebt heel wat telefoontjes gemist en het nieuws staat op zen kop");
+     console.log("Je word wakker wat ga je doen?");
+     console.log("a. je gaat gewoon veder alsof er niets aan de hand is. b. Je gaat toch maar buien kijken wat er aan de hand is.");
+     answer = readlineSync.question()
     if (answer == 'a'){
         text8()
     }
@@ -70,11 +70,11 @@ function text18(){
 
 
 function text8(){
-   console.log("Het boeit je allemaal niet zoveel je hebt beneden nog wat planken liggen dus je pakt die en timmert alles dicht en je wilt niks meer te maken hebben met de buiten wereld.");
-   console.log("Het enige probleem is dat je niet zo veel eten meer in huis hebt en rustig aan moet doen.");
-   console.log("Je start je computer op om weer call of dutty met de boys te gaan doen alleen krijg je geen reactie op je berichtjes en zie je dat ze je gebelt hebben.");
-   console.log("a. Het zit wel goed. b. Je probeert ze te bereiken. ");
-   answer = readlineSync.question()
+     console.log("Het boeit je allemaal niet zoveel je hebt beneden nog wat planken liggen dus je pakt die en timmert alles dicht en je wilt niks meer te maken hebben met de buiten wereld.");
+     console.log("Het enige probleem is dat je niet zo veel eten meer in huis hebt en rustig aan moet doen.");
+     console.log("Je start je computer op om weer call of dutty met de boys te gaan doen alleen krijg je geen reactie op je berichtjes en zie je dat ze je gebelt hebben.");
+     console.log("a. Het zit wel goed. b. Je probeert ze te bereiken.");
+     answer = readlineSync.question()
    if (answer == 'a'){
        text9()
    }
@@ -89,10 +89,10 @@ function text8(){
 
 
 function text9(){
-    console.log("Je wou ze gaan zoeken maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft je wel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.");
-    console.log("a. je haalt de planken weg b. Je laat het zitten voor je eigen veiligheid.");
-    answer = readlineSync.question()
-    if (aswer == 'a'){
+     console.log("Je wou ze gaan zoeken maar je vond het toch te gevaarlijk buiten wat begrijpelijk is want er is een apokolips je blijft je wel heel de dag zorgen maken en je hebt geen idee wat er buiten gaande is en wilt stiekem naar buiten kijken maar dat kan helaas niet.");
+     console.log("a. je haalt de planken weg b. Je laat het zitten voor je eigen veiligheid.");
+     answer = readlineSync.question()
+    if (answer == 'a'){
         text16()       
        }
     else{
@@ -227,7 +227,7 @@ function text12(){
         text0()
     }
     else{
-        Einde()
+        text24()
     }    
 }
 
@@ -386,11 +386,11 @@ function text22(){
     console.log("               ");
     console.log(" (```````)___  ");
     console.log(" ( x . x )");
-    console.log("  ( (x) )");
-    console.log(" /|     |\ ");
-    console.log("/ |_____| \  ");
-    console.log("   /   \     ");
-    console.log("  /     \   ");
+    console.log(" _( (x) )_ ");
+    console.log("| |     | |   ");
+    console.log("|_|_____|_|  ");
+    console.log("  | | | |     ");
+    console.log("  |_| |_| ");
     console.log("#############################################################################################################################################################################################");
     console.log("Dit was het dan het einden van dit verhaal.");
     console.log("a. als je op nieuw wilt beginen. b. Om naar het einde te gaan.");
@@ -465,8 +465,8 @@ function text6(){
     console.log("jullie beginen te juigen en pakken alles in jij haalt de auto alvast jullie hebben de auto in gepakt en beginnen aan een toch van 10 dagen rijden.");
     console.log("Een maal thuis aan gekomen pakt iedereen de belangrijkste spullen uit hun huis jullie rijden naar jouw huis en beginnen daar met het schoon maken van alles.");
     console.log("Na alles beslisen jullie samnen te gaan wonen aan gezien alles wat jullie hadden aan familie niet terug te vinden zijn jullie wonen nog lang en gelukkig in het huis en jullie hebben deze vreselijke apokolips oveleefd");
-    console.log("#########################################################################################################################################################################################");
     console.log("a als je op nieuw wilt beginen  b. als je naar het eind wil.");
+    console.log("#########################################################################################################################################################################################");
     answer = readlineSync.question
     if (answer == 'a'){
         text0()
@@ -481,5 +481,5 @@ function text6(){
 
 function text24(){
     console.log("Dit was het dan het einden van deze text base adventare ik hoop dat je het leuk vond.")
-    console.log("###########################################################################################################################################################################################################################################");
+    console.log("######################################################################################################################################################################");
 }
